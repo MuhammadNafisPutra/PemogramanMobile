@@ -9,6 +9,7 @@
 ### Deskripsi
 Tugas pertemuan 1 membuat aplikasi bertujuan untuk menampilkan Inputan user dengan menekan tombol, dan akan muncul HALO "Inputan",
 dan pada aplikasi juga bisa mengatut tema gelap atau terang, berikut link Youtube presentasi aplikasi
+https://youtu.be/egYm7-Fpb8Q?si=t5icNcaxgkWcvG1u
 
 
 
