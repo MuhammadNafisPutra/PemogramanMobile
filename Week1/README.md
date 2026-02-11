@@ -19,7 +19,7 @@ Fitur aplikasi:
 
 1. **Clone repository** ini ke komputer Anda:
    ```bash
-   git clone [https://github.com/MuhammadNafisPutra/PemogramanMobile.git](https://github.com/MuhammadNafisPutra/PemogramanMobile.git)
+   git clone [https://github.com/MuhammadNafisPutra/PemogramanMobile.git]
 2. Buka Android Studio, lalu pilih Open.
 3. Cari dan pilih folder PemogramanMobile yang baru saja di-clone.
 4. Tunggu hingga proses Gradle Sync selesai (pastikan koneksi internet lancar).
