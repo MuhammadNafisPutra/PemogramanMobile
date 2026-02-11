@@ -10,9 +10,10 @@ Tugas pertemuan 1 membuat aplikasi bertujuan untuk menampilkan Inputan user deng
 dan pada aplikasi juga bisa mengatut tema gelap atau terang, berikut link Youtube presentasi aplikasi
 
 
+
 Fitur aplikasi:
-- Pengenalan dasar Kotlin (Variabel & Tipe Data)
-- *(Boleh ditambahkan: Input nama dan menampilkan "Halo, Nama!")*
+- Menampilkan Inputan dengan menekan tombol
+- Mengatur Tema
 
 ### Cara Menjalankan
 
