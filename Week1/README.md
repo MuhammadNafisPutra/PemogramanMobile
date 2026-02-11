@@ -24,4 +24,4 @@ Fitur aplikasi:
 2. Buka Android Studio, lalu pilih Open.
 3. Cari dan pilih folder PemogramanMobile yang baru saja di-clone.
 4. Tunggu hingga proses Gradle Sync selesai (pastikan koneksi internet lancar).
-5. Jalankan aplikasi dengan menekan tombol Run (▶) atau Shift + F10.
+5. Jalankan aplikasi
